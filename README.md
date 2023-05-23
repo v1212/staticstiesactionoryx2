@@ -1,2 +1,1 @@
-# staticstiesactionoryx2
-github action for jianwswa2
+# Static Sites Action
